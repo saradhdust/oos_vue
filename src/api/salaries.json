@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "basicSalary": 8000,
+    "bonus": 800,
+    "trafficSalary": 500,
+    "lunchSalary": 400,
+    "allSalary": null,
+    "pensionBase": 1000,
+    "pensionPer": 0.06,
+    "createDate": "2019-09-01",
+    "medicalBase": 1000,
+    "medicalPer": 0.06,
+    "accumulationFundBase": 1000,
+    "accumulationFundPer": 0.06,
+    "name": "营销部工资账套"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "总部",
+    "parentId": -1,
+    "depPath": ".1",
+    "enabled": true,
+    "isParent": true,
+    "children": [
+      {
+        "id": 2,
+        "name": "研发部",
+        "parentId": 1,
+        "depPath": ".1.2",
+        "enabled": true,
+        "isParent": false,
+        "children": []
+      },
+      {
+        "id": 3,
+        "name": "营销部",
+        "parentId": 1,
+        "depPath": ".1.3",
+        "enabled": true,
+        "isParent": false,
+        "children": []
+      },
+      {
+        "id": 4,
+        "name": "运维部",
+        "parentId": 1,
+        "depPath": ".1.4",
+        "enabled": true,
+        "isParent": false,
+        "children": []
+      },
+      {
+        "id": 5,
+        "name": "财务部",
+        "parentId": 1,
+        "depPath": ".1.5",
+        "enabled": true,
+        "isParent": false,
+        "children": []
+      }
+    ]
+  }
+]

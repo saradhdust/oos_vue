@@ -1,0 +1,52 @@
+[
+  {
+    "id": 2,
+    "name": "卧春旅",
+    "phone": "1369114514",
+    "telephone": "441499819",
+    "address": "翻斗大街翻斗花园二号楼1001室",
+    "enabled": true,
+    "username": "yui",
+    "password": "123456",
+    "userFace": "",
+    "remark": "",
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_manager",
+        "nameZh": "部门经理"
+      },
+      {
+        "id": 2,
+        "name": "ROLE_personnel",
+        "nameZh": "人事专员"
+      }
+    ],
+    "authorities": []
+  },
+  {
+    "id": 3,
+    "name": "测试用户",
+    "phone": "1461145141",
+    "telephone": "441499818",
+    "address": "翻斗大街翻斗花园二号楼1002室",
+    "enabled": true,
+    "username": "test",
+    "password": "123456",
+    "userFace": "",
+    "remark": "",
+    "roles": [
+      {
+        "id": 1,
+        "name": "ROLE_manager",
+        "nameZh": "部门经理"
+      },
+      {
+        "id": 3,
+        "name": "ROLE_recruiter",
+        "nameZh": "招聘主管"
+      }
+    ],
+    "authorities": []
+  }
+]

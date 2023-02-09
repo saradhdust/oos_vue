@@ -1,0 +1,83 @@
+{
+  "total": 1,
+  "data": [
+    {
+      "id": 1,
+      "name": "张三丰",
+      "gender": "女",
+      "birthday": "1901-11-20",
+      "idCard": "341502198810196427",
+      "wedlock": "未婚",
+      "nationId": 1,
+      "nativePlace": "晚市",
+      "politicId": 3,
+      "email": "zhang@199.cn",
+      "phone": "15567487644",
+      "address": "address",
+      "departmentId": 3,
+      "jobLevelId": 5,
+      "posId": 5,
+      "engageForm": "劳动合同",
+      "tiptopDegree": "博士",
+      "specialty": "软件工程",
+      "school": "华南农业大学",
+      "beginDate": "2019-09-01",
+      "workState": "在职",
+      "workID": "00000001",
+      "contractTerm": 9.31,
+      "conversionTime": "2019-8-29",
+      "notWorkDate": null,
+      "beginContract": "2018-09-03",
+      "endContract": "2023-8-26",
+      "workAge": null,
+      "salaryId": null,
+      "nation": {
+        "id": 1,
+        "name": "汉族"
+      },
+      "politicStatus": {
+        "id": 3,
+        "name": "共青团员"
+      },
+      "department": {
+        "id": 3,
+        "name": "技术部",
+        "parentId": null,
+        "depPath": null,
+        "enabled": null,
+        "isParent": null,
+        "children": null,
+        "result": null
+      },
+      "jobLevel": {
+        "id": 5,
+        "name": "初级工程师",
+        "titleLevel": null,
+        "createDate": null,
+        "enabled": null
+      },
+      "position": {
+        "id": 5,
+        "name": "运维工程师",
+        "createDate": null,
+        "enabled": null
+      },
+      "salary": {
+        "id": 1,
+        "basicSalary": 8000,
+        "bonus": 800,
+        "trafficSalary": 500,
+        "lunchSalary": 400,
+        "allSalary": null,
+        "pensionBase": 1000,
+        "pensionPer": 0.06,
+        "createDate": "2019-09-01",
+        "medicalBase": 1000,
+        "medicalPer": 0.06,
+        "accumulationFundBase": 1000,
+        "accumulationFundPer": 0.06,
+        "name": "营销部工资账套"
+      }
+    }
+  ]
+}

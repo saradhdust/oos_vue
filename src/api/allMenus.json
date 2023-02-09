@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "所有",
+    "children": [
+      {
+        "id": 2,
+        "name": "员工资料",
+        "children": [
+          {
+            "id": 7,
+            "name": "基本资料",
+            "children": []
+          },
+          {
+            "id": 8,
+            "name": "高级资料",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "人事管理",
+        "children": [
+          {
+            "id": 9,
+            "name": "员工奖惩",
+            "children": []
+          },
+          {
+            "id": 10,
+            "name": "员工资料",
+            "children": []
+          },
+          {
+            "id": 11,
+            "name": "员工调动",
+            "children": []
+          },
+          {
+            "id": 12,
+            "name": "员工调薪",
+            "children": []
+          },
+          {
+            "id": 13,
+            "name": "员工培训",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "薪资管理",
+        "children": [
+          {
+            "id": 14,
+            "name": "工资账套管理",
+            "children": []
+          },
+          {
+            "id": 15,
+            "name": "员工账套管理",
+            "children": []
+          },
+          {
+            "id": 16,
+            "name": "工资表管理",
+            "children": []
+          },
+          {
+            "id": 17,
+            "name": "月末处理",
+            "children": []
+          },
+          {
+            "id": 18,
+            "name": "工资表查询",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "统计管理",
+        "children": [
+          {
+            "id": 19,
+            "name": "综合信息统计",
+            "children": []
+          },
+          {
+            "id": 20,
+            "name": "员工积分统计",
+            "children": []
+          },
+          {
+            "id": 21,
+            "name": "人事信息统计",
+            "children": []
+          },
+          {
+            "id": 22,
+            "name": "人事记录统计",
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "系统管理",
+        "children": [
+          {
+            "id": 23,
+            "name": "基础信息管理",
+            "children": []
+          },
+          {
+            "id": 24,
+            "name": "系统管理",
+            "children": []
+          },
+          {
+            "id": 25,
+            "name": "操作日志管理",
+            "children": []
+          },
+          {
+            "id": 26,
+            "name": "操作员管理",
+            "children": []
+          },
+          {
+            "id": 27,
+            "name": "备份恢复数据库",
+            "children": []
+          },
+          {
+            "id": 28,
+            "name": "初始化数据库",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
